@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">APP程式設計 10602期末考</string>
+    <string-array name="web">
+        <item>南華大學</item>
+        <item>旗標公司</item>
+        <item>GOOGLE</item>
+    </string-array>
+</resources>
